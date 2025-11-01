@@ -21,7 +21,7 @@
 ### **1.3 Scan Student’s Information & Display**  
 - Accepts user input for student details such as **name, enrolment no, branch, etc.**  
 - Displays the entered details neatly formatted.  
-<img width="238" height="522" alt="image" src="https://github.com/user-attachments/assets/57c0eaf4-7853-4329-a251-6e5e527be842" />
+<img width="238" height="522" alt="image" src="" />
 
 ---
 
