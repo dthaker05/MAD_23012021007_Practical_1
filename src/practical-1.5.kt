@@ -1,0 +1,17 @@
+fun main() {
+    print("enter month number")
+    var m = readLine()!!.toInt()
+    if (m == 1) println("jan")
+    else if (m == 2) println("feb")
+    else if (m == 3) println("mar")
+    else if (m == 4) println("apr")
+    else if (m == 5) println("may")
+    else if (m == 6) println("jun")
+    else if (m == 7) println("jul")
+    else if (m == 8) println("aug")
+    else if (m == 9) println("sep")
+    else if (m == 10) println("oct")
+    else if (m == 11) println("nov")
+    else if (m == 12) println("dec")
+    else println("not valid input")
+}
